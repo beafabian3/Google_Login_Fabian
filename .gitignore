@@ -1,0 +1,14 @@
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Nuxt and build output
+.nuxt
+.output
+.nitro
+.data
+dist
+
+# Dependencies
+node_modules
